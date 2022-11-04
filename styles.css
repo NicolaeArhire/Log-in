@@ -39,7 +39,7 @@ color: white;
 
 .social_icon{
 position: absolute;
-right: 90px;
+right: 60px;
 bottom: -80px;
 }
 
@@ -86,4 +86,24 @@ color: white;
 
 .links a{
 margin-left: 4px;
+}
+
+.fa-google {
+     background: conic-gradient(from -45deg, #ea4335 110deg, #4285f4 90deg 180deg, #34a853 180deg 270deg, #fbbc05 270deg) 73% 55%/150% 150% no-repeat;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    -webkit-text-fill-color: transparent;
+}
+
+.fa-twitter {
+    color: rgb(52, 219, 231);
+}
+
+.fa-youtube {
+    color: rgb(238, 48, 48);
+}
+
+.fa-facebook {
+    color: rgb(20, 110, 228);
 }
